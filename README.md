@@ -12,3 +12,5 @@ LIBRERIAS:
 1. FLASK
 2. DISCORD
 3. REQUESTS
+4. Tensorflow 2.12
+5. Python 3.10
